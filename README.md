@@ -26,5 +26,5 @@ Smooth navigation between pages
 Redirect users programmatically using useNavigate
 Responsive design with media queries
 
-Author
+# Author
 Developed by Raghavendra Karingu - Frontend Developer (React.js)
