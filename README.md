@@ -14,10 +14,10 @@ Dynamic page redirection after form submission
 Responsive UI for mobile and desktop devices
 
 # Tech Stack
-React.js
-JavaScript (ES6+)
-React Router DOM
-CSS3
+React.js | 
+JavaScript (ES6+) |
+React Router DOM |
+CSS3 |
 
 # Functionalities
 User-friendly form inputs
